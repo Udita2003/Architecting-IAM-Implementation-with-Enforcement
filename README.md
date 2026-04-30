@@ -1,7 +1,6 @@
 # IAM Implementation with Enforcement
 
 ## Project: Architecting IAM Implementation with Enforcement
-### Udacity Cloud Developer Nanodegree
 
 ## Overview
 This project demonstrates the implementation of AWS IAM policies, roles, 
